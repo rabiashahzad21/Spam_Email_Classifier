@@ -70,7 +70,7 @@ Spam_Email_Classifier/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/rabiashahzad21/Spam_Email_Classifier.git
 ```
 
 ### 2. Navigate to Project Folder
